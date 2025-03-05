@@ -93,6 +93,7 @@ Create a `requirements.txt` file and include necessary Python packages:
 pandas
 matplotlib
 seaborn
+scipy
 statsmodels
 jupyter
 ```
