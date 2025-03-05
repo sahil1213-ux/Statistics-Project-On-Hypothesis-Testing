@@ -91,10 +91,8 @@ git push -u origin main
 Create a `requirements.txt` file and include necessary Python packages:
 ```plaintext
 pandas
-numpy
 matplotlib
 seaborn
-scipy
 statsmodels
 jupyter
 ```
