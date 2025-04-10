@@ -39,7 +39,6 @@ This project investigates how payment type affects fare amounts in taxi services
 ## 🛠 Methodology
 1. **Descriptive Analysis** - Summary statistics to understand fare distribution.
 2. **Hypothesis Testing** - Conducted a T-Test to analyze differences in fare amounts based on payment method.
-3. **Regression Analysis** - Examined relationships between trip distance, payment method, and fare amount.
 
 ## 🔍 Key Findings & Insights
 - **Journey Insights:**
